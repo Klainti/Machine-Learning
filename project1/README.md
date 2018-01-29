@@ -1,4 +1,4 @@
-#Project description
+# Project description
 
 You can find a dataset of patients treated in a cardiology department here. Your task in this project is to build a logistic regression model to predict wether a patient takes part in the rehabilitation program or not. Divide your dataset appropriately to train and test dataset and check the performance of your model. Alongside your code you need to submit a detailed report describing the following points:
 
